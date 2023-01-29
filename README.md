@@ -1,2 +1,3 @@
 # first-repositori
-#prima mea linie de cod
+#prima mea linie de cod.
+# am pus punct.
